@@ -1,6 +1,6 @@
 {
     "name": "lfo19/app",
-    "description": "Projeto de estudo de SOLID (Srp - Primeira letra do termo)",
+    "description": "Projeto de estudo de SOLID (OCP)",
     "type": "project",
     "autoload": {
         "psr-4": {

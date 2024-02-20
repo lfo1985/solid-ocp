@@ -1,14 +1,11 @@
-## App
-Aplicação utilizando Design Pattern Strategy com conceitos de SOLID.
-
-## Instalação da aplicação
+## Instalação das dependências
 
 ```bash
 composer install
 ```
 
-## Executar os testes
+## Comando para executar o PHPUnit
 
 ```bash
-vendor\bin\phpunit tests/xxx.php
+vendor\bin\phpunit.bat test/xxxxTest.php
 ```
